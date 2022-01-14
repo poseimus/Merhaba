@@ -1,2 +1,2 @@
 # Merhaba
-Final Projesi - Ekrana merhaba yazan program
+Final Projesi - Ekrana merhaba dunya yazan program
